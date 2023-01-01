@@ -26,6 +26,7 @@
   "homepage": "https://github.com/sidhelpbot/Pincode#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
+    "node-fetch": "^3.3.0",
     "node-telegram-bot-api": "^0.60.0"
   },
   "devDependencies": {
